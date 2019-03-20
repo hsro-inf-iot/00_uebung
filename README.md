@@ -21,7 +21,7 @@ Wir nutzen in diesme Modul ein Azure Subscription und jeder sollte in seiner eig
 
 ![Azure Portal](portal.png)
 
-- Zum Test legen sie bitte eine neue _Ressourcegruppe_ mit dem Name **<ihr_kürzel>-KSINF** an. Als _Region_ bitte **Westeuropa** wählen.
+- Zum Test legen sie bitte eine neue _Ressourcegruppe_ mit dem Name **<ihr_kürzel>-IOTINF** an. Als _Region_ bitte **Westeuropa** wählen.
 
 
  ![Ressourcegruppe anlegen](rg_anlegen.png)
