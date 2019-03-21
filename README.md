@@ -17,7 +17,7 @@ Wir nutzen in diesme Modul ein Azure Subscription und jeder sollte in seiner eig
 
 - Bitte folgen sie dem Link in der EMail und validieren bitte den Azure-Zugang.
 
-- Idealerweise sollten sie auf dem Azure Portal landen.
+- Idealerweise sollten sie auf dem [Azure Portal](https://portal.azure.com/) landen.
 
 ![Azure Portal](portal.png)
 
@@ -34,7 +34,7 @@ Wir nutzen in diesme Modul ein Azure Subscription und jeder sollte in seiner eig
 
 ## IoT Central
 
-Führen sie bitte die folgenden Lernprogramme auf IiT Central aus:
+Führen sie bitte die folgenden Lernprogramme auf IoT Central aus:
 
 1. [Definieren eines neuen Gerätetyps](https://docs.microsoft.com/de-de/azure/iot-central/tutorial-define-device-type)
 2. [Konfigurieren von Regeln und Aktionen für Ihr Gerät](https://docs.microsoft.com/de-de/azure/iot-central/tutorial-configure-rules)
