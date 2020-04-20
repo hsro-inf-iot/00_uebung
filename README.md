@@ -13,20 +13,18 @@ Azure IoT Central ist eine vollständig verwaltete SaaS-Lösung (Software-as-a-S
 
 So, mittlerweile sollten alle im Kurs eingeschrieben sein. Somit konnten alle User dem Azure AD hinzugefügt werden.
 
-Wir nutzen in diesme Modul ein Azure Subscription und jeder sollte in seiner eigenen Ressourcegruppe arbeiten.
+Wir nutzen in diesem Modul ein Azure Subscription und jeder sollte in seiner eigenen Ressourcegruppe arbeiten.
 
-- Bitte folgen sie dem Link in der EMail und validieren bitte den Azure-Zugang.
-
-- Idealerweise sollten sie auf dem [Azure Portal](https://portal.azure.com/) landen.
+- Gehen Sie auf das [Azure Portal](https://portal.azure.com/).
 
 ![Azure Portal](portal.png)
 
-- Zum Test legen sie bitte eine neue _Ressourcegruppe_ mit dem Name **<ihr_kürzel>-IOTINF** an. Als _Region_ bitte **Westeuropa** wählen.
+- Zum Test legen sie bitte eine neue _Ressourcegruppe_ mit dem Name **<ihr_kürzel>-INFIOT** an. Als _Region_ bitte **West Europa** wählen. ACHTUNG: IM BILD IST EIN FALSCHER NAME ANGEGEBEN!
 
 
- ![Ressourcegruppe anlegen](rg_anlegen.png)
+![Ressourcegruppe anlegen](rg_anlegen.png)
 
-    Am unteren Rand nicht vergessen **Bewerte + erstellen** zu klicken. Danach sollte ihre Ressourcengruppe in der Liste der Ressourcengruppen erscheinen.
+Am unteren Rand nicht vergessen **Bewerte + erstellen** zu klicken. Danach sollte ihre Ressourcengruppe in der Liste der Ressourcengruppen erscheinen.
 
 ![Resourcegruppe erstellt](rg_erstellt.png)
 
@@ -34,14 +32,14 @@ Wir nutzen in diesme Modul ein Azure Subscription und jeder sollte in seiner eig
 
 ## IoT Central
 
-Führen sie bitte die folgenden Lernprogramme auf IoT Central aus:
+Führen Sie bitte die folgenden Lernprogramme auf IoT Central aus:
 
 > Die Dokumentation ist auf Englisch, da die UI neu gestaltet wurde und die deutsche noch auf dem alten Stand ist.
 
-1. [Definieren eines neuen Gerätetyps](https://docs.microsoft.com/en-us/azure/iot-central/tutorial-define-device-type)
-2. [Konfigurieren von Regeln und Aktionen für Ihr Gerät](https://docs.microsoft.com/en-us/azure/iot-central/tutorial-configure-rules)
-3. [Anpassen der Azure IoT Central-Ansicht für Bediener](https://docs.microsoft.com/en-us/azure/iot-central/tutorial-customize-operator)
-4. [Überwachen Ihrer Geräte](https://docs.microsoft.com/en-us/azure/iot-central/tutorial-monitor-devices)
+1. [Anlegen einer neuen Anwendung](https://docs.microsoft.com/en-us/azure/iot-central/core/quick-deploy-iot-central)
+1. [Definieren eines neuen Gerätetyps](https://docs.microsoft.com/en-us/azure/iot-central/core/quick-create-simulated-device)
+2. [Konfigurieren von Regeln und Aktionen für Ihr Gerät](https://docs.microsoft.com/en-us/azure/iot-central/core/quick-configure-rules)
+4. [Überwachen Ihrer Geräte](https://docs.microsoft.com/en-us/azure/iot-central/core/quick-monitor-devices)
 
 
 **Fertig!!!**
